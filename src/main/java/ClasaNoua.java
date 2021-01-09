@@ -1,5 +1,6 @@
 public class ClasaNoua {
     public static void main(String[] args) {
-        System.out.println("Hello World!");
+        int i = 3;
+        System.out.println(i);
     }
 }
